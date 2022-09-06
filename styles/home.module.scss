@@ -21,6 +21,7 @@
       font-weight: 900;
       font-size: 4.5rem;
       color: var(--white);
+      margin-top: 2.5rem;
 
       &>span {
         color: var(--cyan-500);
@@ -36,6 +37,10 @@
       &>span {
         color: var(--cyan-500);
       }
+    }
+
+    &>button {
+      margin-top: 2.5rem;
     }
   }
 }
